@@ -1,4 +1,5 @@
-[
+{
+ "Products": [
     { "id": 1, 
      "description": "Item 1" ,
      "img": "https://www.vwvortex.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.vwvortex.com/attachments/images-jpeg.191241/",
@@ -8,4 +9,4 @@
   "Profile": {
       "name": "WeOutside"
   } 
-
+}
